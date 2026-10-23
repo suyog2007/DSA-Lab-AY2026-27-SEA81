@@ -1,3 +1,9 @@
+// Name: Suyog Satish Nimbalkar
+// Roll No.: SEA81
+// Practical No. 2
+
+
+
 #include <stdio.h>
 typedef struct
 {
